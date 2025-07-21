@@ -1,33 +1,19 @@
-let age = 15; 
-console.log("лет:", age);
+//console.log("привет это мой первый проект js")
 
-let name = "Даничка"; 
-console.log("имя:", name);
+// зменна этоо контейнер в памяти компьтер какой может
+// сохранять какую-то информацию.також есть имя по мимо может до него обращаться
+// const name = "а где тралалелотралала"; // const не измениться она не изменяетьсяё
+// конст тип сменнои якщо ми в майбутньному не плануэмо зминювати значекння
 
-let isStudent = false; 
-console.log("Студент:", isStudent);
+// let age = 14;
+// лет когда ми плануемо зминуваты значення зминнои
 
+// alert(" че ты сюдв пришел а скажи мне пожалуйства");
+// console.log(typeof danylo);
 
-let myString = "успех — це сукупність невеликих зусиль.";
-console.log("любимая цитата:", myString);
-
-let myNumber = 52;
-myNumber += 42;
-console.log("myNumber посля 42:", myNumber);
-
-let myNull = null;
-console.log("myNull:", myNull);
+// undefined спец спецзначенння приклад
+// let x = null;
+ // const data = prompt("привет");
+//console.log(data);
 
 
-let userName = prompt("Введіть своє ім’я");
-alert("твое имя: " + userName);
-console.log("Тип userName:", typeof userName);
-
-
-let userAnswer = confirm("вы реально хотите покинуть сайт?");
-console.log("ответ:", userAnswer); 
-
-
-alert("внимание! может быть опасно.");
-let confirmDangerousAction = confirm("вы уверены?");
-console.log("подтвердил:", confirmDangerousAction);
