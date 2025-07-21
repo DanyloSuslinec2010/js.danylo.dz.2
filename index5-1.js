@@ -1,54 +1,54 @@
-// const day = 7;
-// if (true ) {
-//     const age = 17;
-//     var a = 11
-//     console.log(a)
-// }
-// console.log(day)
-// console.log(age)
+const day = 7;
+if (true ) {
+    const age = 17;
+    var a = 11
+    console.log(a)
+}
+console.log(day)
+console.log(age)
 
-// if (day===1){
-//     console.log("понедельник")
-// } else if (day===2){
-//     console.log("вторник")
-// }
-// else if(day===3){
-//     console.log("середа")
-// }
-// else if(day===4){
-//     console.log("четверг")
-// }
-// else if(day===5){
-//     console.log("пятница")
-// }
-// else if(day===6){
-//     console.log("суботта")
-// }
-// else if (day === 7) {
-//   console.log("воскресенья");
-// } else {
-//   console.log("не существует");
-// }
+if (day===1){
+    console.log("понедельник")
+} else if (day===2){
+    console.log("вторник")
+}
+else if(day===3){
+    console.log("середа")
+}
+else if(day===4){
+    console.log("четверг")
+}
+else if(day===5){
+    console.log("пятница")
+}
+else if(day===6){
+    console.log("суботта")
+}
+else if (day === 7) {
+  console.log("воскресенья");
+} else {
+  console.log("не существует");
+}
 
 
-// switch (day) {
-//   case 1: console.log("понедельник");
-//   break;
-//   case 2: console.log("вторник");
-//   break;
-//   case 3: console.log("середа"); 
-//   break;
-//   case 4: console.log("четверг");
-//   break;
-//   case 5: console.log("пятница");
-//   break;
-//   case 6: console.log("суботта");
-//   break;
-//   case 7: console.log("воскресенья");
-//   break;
-//   default:
-//     console.log("не существует");
-// }
+switch (day) {
+  case 1: console.log("понедельник");
+  break;
+  case 2: console.log("вторник");
+  break;
+  case 3: console.log("середа"); 
+  break;
+  case 4: console.log("четверг");
+  break;
+  case 5: console.log("пятница");
+  break;
+  case 6: console.log("суботта");
+  break;
+  case 7: console.log("воскресенья");
+  break;
+  default:
+    console.log("не существует");
+}
 
 // let isOnline = prompt ("ты онлайн");
 // let isFriend = confirm("ты мой друг");
@@ -90,27 +90,28 @@
 // }
 
 
-// const a = 10;
-// const b = 5;
-// const operator = "+"; 
-// let result;
+const a = 10;
+const b = 5;
+const operator = "+"; 
+let result;
 
-// switch (operator) {
-//   case "+":
-//     result = a + b;
-//     break;
-//   case "-":
-//     result = a - b;
-//     break;
-//   case "*":
-//     result = a * b;
-//     break;
-//   case "/":
-//     result = a / b;
-//     break;
-// }
+switch (operator) {
+  case "+":
+    result = a + b;
+    break;
+  case "-":
+    result = a - b;
+    break;
+  case "*":
+    result = a * b;
+    break;
+  case "/":
+    result = a / b;
+    break;
+}
 
-// console.log(result);
+console.log(result);
+
 
 
 // Умова: Є змінна color = "green".
